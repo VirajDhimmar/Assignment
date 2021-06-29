@@ -25,6 +25,7 @@ h1 {
 }
 
 h2 {
+  float: right;
   clear: left;
   color: white;
   background-color: #1B1717;
@@ -37,7 +38,7 @@ h2 {
 
 p {
   color: white;
-  margin-top: 10px;
+  margin-top: 80px;
   padding: 0 20px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
