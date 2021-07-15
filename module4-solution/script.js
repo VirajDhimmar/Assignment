@@ -1,4 +1,4 @@
-var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+var names = ["Angel", "Jemin", "Jeel", "Viraj", "Kedar", "Niraj", "Jenil", "Jiya", "Divyesh", "Jigar"];
 
 
 for (var i = 0; i < names.length; i++) {
